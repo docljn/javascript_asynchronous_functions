@@ -1,3 +1,6 @@
+# Coming soon!
+
+## Promisifying AJAX
 ### XMLHttpRequest
 
 #### Original code: using a callback (AJAX)

@@ -281,6 +281,6 @@ For more on the fat arrow, you can visit [StrongLoop]( https://strongloop.com/st
 https://developer.ibm.com/node/2015/09/21/an-introduction-to-javascript-es6-arrow-functions/)
 
 ### ES7 Async Await
-This makes the syntax even prettier, but that's for another time... 
+This makes the syntax even prettier, but that's for another time...
 <https://developers.google.com/web/fundamentals/primers/async-functions>
 <https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html>
